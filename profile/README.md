@@ -1,22 +1,17 @@
-# ArtRider
-
-<img src="https://github.com/user-attachments/assets/12c07bc9-931a-42f0-86e4-60f37bf66608" />
-
-## **📖** 프로젝트 소개
-
-### **🗣️** ArtRider란?!
+> 2024 K-HTML 해커톤 대회 <br />
+> 개발기간: 2024.08.12 - 2024.08.14
 
 
-**내가 가는 길이 하나의 붓이 되어 지도에 그림을 그리는 복지 서비스**입니다.
+# 🗣️ ArtRider <img src="https://github.com/user-attachments/assets/12c07bc9-931a-42f0-86e4-60f37bf66608" align=left width=100>
+
+> **내가 가는 길이 하나의 붓이 되어 지도에 그림을 그리는 복지 서비스**입니다.
+
 
 ### 기능
 
 1. AI가 지도위에 그림을 그려주어, 사용자의 편한 지도메이킹
 2. 소상공인의 가게홍보와 사용자의 소비장려를 위한 쿠폰스팟
 
-## **⌛️프로젝트 기간**
-
-2024 K-HTML 해커톤 대회
 
 ## **💭 기획 배경**
 
@@ -35,10 +30,9 @@
 
 ## **👥 팀원**
 
-김민희 : 프론트엔드
+|김민희|민영은|박상민|박지수|
+|:---:|:---:|:---:|:---:|
+|프론트엔드|백엔드, 기획|UX/UI 디자인, 프론트엔드|AI, 백엔드|
+|[@heehminh](https://github.com/heehminh)|[@minyeongeun](https://github.com/minyeongeun)|[@sangmaaaaan](https://github.com/sangmaaaaan)|[@jisupark123](https://github.com/jisupark123)|
 
-박상민 : UX/UI 디자인, 프론트엔드
 
-민영은 : 백엔드, 기획
-
-박지수 : AI, 백엔드
