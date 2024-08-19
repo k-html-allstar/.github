@@ -32,6 +32,7 @@
 
 |김민희|민영은|박상민|박지수|
 |:---:|:---:|:---:|:---:|
+|<img src="https://avatars.githubusercontent.com/heehminh" width="100%">|<img src="https://avatars.githubusercontent.com/minyeongeun" width="100%">|<img src="https://avatars.githubusercontent.com/sangmaaaaan" width="100%">|<img src="https://avatars.githubusercontent.com/jisupark123" width="100%">|
 |프론트엔드|백엔드, 기획|UX/UI 디자인, 프론트엔드|AI, 백엔드|
 |[@heehminh](https://github.com/heehminh)|[@minyeongeun](https://github.com/minyeongeun)|[@sangmaaaaan](https://github.com/sangmaaaaan)|[@jisupark123](https://github.com/jisupark123)|
 
